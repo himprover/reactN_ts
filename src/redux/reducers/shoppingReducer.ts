@@ -1,0 +1,3 @@
+const ShoppingReducer = () => {};
+
+export { ShoppingReducer };
